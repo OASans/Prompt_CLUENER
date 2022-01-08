@@ -1,3 +1,10 @@
+TemplateCLUE/cluener_public
+TemplateCLUE/models
+TemplateCLUE/processed_data
+
+TemplateNER/models
+TemplateNER/processed_data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
